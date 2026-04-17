@@ -1,0 +1,22 @@
+\section*{Sistemas Numéricos}
+\subsection{Que es un número?}
+Un número se refiere a una cadena de dígitos en donde la posición de
+cada uno determina la base con la que se esté trabajando. Por ejemplo,
+en el número 314.56:
+- El 3 ocupa la base 2
+- El 1 ocupa la base 1
+- El 4 ocupa la base 0
+- El 5 ocupa la base -1
+- El 6 ocupa la base -2
+De esta forma, la posición del número posee un peso r^{i}, donde r es
+la base del sistema de numeración.
+
+Por lo tanto, un número N en base r se expresa como:
+
+[[./sistemas_numeracion.png]]
+#+caption: SistemasNumeracion
+#+attr_latex: scale=0.75
+#+label: fig:numeros
+[[./sistemas_numeracion.png]]
+
+
