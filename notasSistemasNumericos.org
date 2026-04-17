@@ -13,13 +13,13 @@ la base del sistema de numeración.
 
 Por lo tanto, un número N en base r se expresa como:
 
-[[./sistemas_numeracion.png]]
 #+caption: SistemasNumeracion
-#+attr_latex: scale=0.75
+#+attr_latex: :scale 0.75
 #+label: fig:numeros
-[[./sistemas_numeracion.png]]
+[[./imagenes/sistemas_numeracion.png]]      
 
 \textbf{Número en base 7: 345}
+
 \textbf{Número en base 4: 12}
 
 El valor correspondiente al número 345 en base 7 es 180. Por otro
