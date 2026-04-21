@@ -1,4 +1,35 @@
 \section*{Sistemas Numéricos}
+\subsection{Estructura superior del computador}
+
+\textbf{La ALU}
+
+Es la encargada de realizar las operaciones lógicas y aritméticas
+sobre los datos. Lo realiza por medio de las compuertas lógicas (AND,
+OR, NOT)
+
+- Está conformada por dispositivos electrónicos que permiten el
+  almacenamiento de dígitos binarios y ejecutar operaciones Booleanas
+- La ALU se interconecta por señales de control, utiliza 2 registros y
+  emite flags.
+- Estas flags sirven para avisar si, por ejemplo, hubo un overflow
+  porque el resultado no pùdo ser representado.
+
+El computador interacciona con el medio a través de periféricos o
+líneas de comunicación. Se compone de las siguientes partes:
+- Central Processing Unit (CPU)
+- Memoria principal
+- Ingreso y salida de datos (I/O)
+- Sistemas de interconexión
+
+\textbf{El CPU}
+
+Está conformado por registros, la unidad de control, la Unidad Lógica
+Aritmética (ALU) y el CPU de interconexión interna.
+
+A su vez, la unidad de control se forma por circuitos secuenciales,
+registros y decodificadores y la memoria de control. 
+
+
 \subsection{Que es un número?}
 Un número se refiere a una cadena de dígitos en donde la posición de
 cada uno determina la base con la que se esté trabajando. Por ejemplo,
